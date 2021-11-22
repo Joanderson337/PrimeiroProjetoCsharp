@@ -1,0 +1,14 @@
+A:\Alura\C#\Projeto\1-Projeto\bin\Debug\net6.0\1-Projeto.exe
+A:\Alura\C#\Projeto\1-Projeto\bin\Debug\net6.0\1-Projeto.deps.json
+A:\Alura\C#\Projeto\1-Projeto\bin\Debug\net6.0\1-Projeto.runtimeconfig.json
+A:\Alura\C#\Projeto\1-Projeto\bin\Debug\net6.0\1-Projeto.dll
+A:\Alura\C#\Projeto\1-Projeto\bin\Debug\net6.0\ref\1-Projeto.dll
+A:\Alura\C#\Projeto\1-Projeto\bin\Debug\net6.0\1-Projeto.pdb
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.GeneratedMSBuildEditorConfig.editorconfig
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.AssemblyInfoInputs.cache
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.AssemblyInfo.cs
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.csproj.CoreCompileInputs.cache
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.dll
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\ref\1-Projeto.dll
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.pdb
+A:\Alura\C#\Projeto\1-Projeto\obj\Debug\net6.0\1-Projeto.genruntimeconfig.cache
